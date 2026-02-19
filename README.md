@@ -1,8 +1,8 @@
 ![banner](engine/Group_2.png)
 
-# ERSO
+---
 
-A C++20/OpenGL graphics engine. Deferred PBR pipeline, ECS, frustum culling, shader hot-reload, ImGui overlay. 
+Erso is a C++20/OpenGL graphics engine. Deferred PBR pipeline, ECS, frustum culling, shader hot-reload, ImGui overlay. 
 
 OpenGL 4.1 on macOS (driver ceiling), 4.6 elsewhere.
 
