@@ -1,4 +1,4 @@
-![engine/Group_2.png]
+![banner](engine/Group_2.png)
 
 # ERSO
 
